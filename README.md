@@ -67,10 +67,9 @@ Use the **Bluetooth RC Car App** by ANDI.co (available on Android):
 ## 💡 Getting Started
 
 1. Clone this repository:
-   ```bash
+```
    git clone https://github.com/vanarraj/tom-Mater.git
 ```
-````
 
 2. Open `Nano1_MotorControl.ino` in Arduino IDE → upload to first Nano.
 
