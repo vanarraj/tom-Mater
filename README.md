@@ -96,7 +96,7 @@ Use the **Bluetooth RC Car App** by ANDI.co (available on Android):
 
 ## 📸 Showcase
 
-![Mater Demo](assets/mater_demo.gif)
+![Mater Demo](assets/mater_demo_.gif)
 
 ---
 
